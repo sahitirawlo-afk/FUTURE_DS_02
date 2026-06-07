@@ -55,4 +55,4 @@ The dataset analyzes **178 total customers**, tracking key metrics to pinpoint w
 * **Data Source:** Customer Account & Billing Database
 
 ##
-* Dashboard picture:
+* Dashboard picture:https://github.com/sahitirawlo-afk/FUTURE_DS_02/blob/main/Screenshot%202026-06-07%20162546.png
