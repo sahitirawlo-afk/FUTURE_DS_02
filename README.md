@@ -51,9 +51,9 @@ The dataset analyzes **178 total customers**, tracking key metrics to pinpoint w
 ---
 
 ## 🛠️ Tech Stack Used
-* **BI Tool:** Power BI and MS Excel
+* **Tools:** Power BI and MS Excel
 * **Data Source:** Customer Account & Billing Database
 
 ##
-* Dashboard picture:https://github.com/sahitirawlo-afk/FUTURE_DS_02/blob/main/Screenshot%202026-06-07%20162546.png
-  
+Dashboard picture:https://github.com/sahitirawlo-afk/FUTURE_DS_02/blob/main/Screenshot%202026-06-07%20162546.png
+
